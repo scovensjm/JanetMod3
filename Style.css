@@ -1,0 +1,13 @@
+a {
+	color: green;
+} 
+
+/*  Below is the styling for my images
+*/
+img{
+/* 	border-style:groove;
+	border-width:7px;
+	border-color: #0c0303; */
+
+	border: 5px solid  #f2d468;
+}
